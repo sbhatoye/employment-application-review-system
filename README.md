@@ -1,6 +1,6 @@
 # Employment Application Review System 
 
-*This is a team project I worked on my for my software engineering
+*This is a team project I worked on in software engineering
 class - COSC 3506.* 
 
 ## Objective
