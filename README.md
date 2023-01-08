@@ -51,6 +51,10 @@ Below is a diagram that gives an overview of the system design:
 
 ![System Overview](https://user-images.githubusercontent.com/121978043/211221435-7fb7b61e-2521-4409-a39c-f7983aec8775.PNG)
 
+## Demo
+
+## Project Walkthrough
+
 ## Interface Requirements
 
 ### User Interfaces
@@ -61,9 +65,54 @@ Below is a diagram that gives an overview of the system design:
 
 ![Software Interfaces](https://user-images.githubusercontent.com/121978043/211222209-96e683c4-c609-43e5-9f59-835f422434e3.PNG)
 
-## Demo
+## Use Case Models
 
-## Project Walkthrough
+### Manage Accounts
+
+**Pre-conditions:**  The credentials provided match the user
+
+**Post-conditions:** The account has been successfully added/removed from the system
+
+**Actors:** User
+
+![Manage Accounts](https://user-images.githubusercontent.com/121978043/211222850-32650ca6-73b7-486b-b31f-6fabe9c18cde.PNG)
+
+
+### Enter the System as a User
+
+**Pre-conditions:** The credentials provided match a user in the database
+
+**Post-conditions:** The user entered the system successfully and may proceed
+
+**Actors:** User
+
+![Enter System as User](https://user-images.githubusercontent.com/121978043/211222860-558ebb6a-badc-4f91-86b3-762c96d66b26.PNG)
+
+### Modify Faculty Searches
+
+**Pre-conditions:** The user has entered the system successfully
+
+**Post-conditions:** The faculty searches are presented and the changes performed (if any) have been saved successfully
+
+**Actors:** User
+
+![Modify Faculty Searches](https://user-images.githubusercontent.com/121978043/211222875-3486aaba-d398-4c64-b515-e7ce16a1ca70.PNG)
+
+### Modify Applications for a Faculty Search
+
+**Pre-conditions:** The user has entered the system successfully and chooses to view the faculty search table.
+
+**Post-conditions:** - The relevant applications are presented and the changes performed (if any) have been saved successfully
+
+**Actors:** User
+
+![Modify Applications](https://user-images.githubusercontent.com/121978043/211222884-9231e1b5-c7c3-42d9-b4b4-508e49d2977d.PNG)
+
+
+
+
+
+
 
 
 
