@@ -51,9 +51,19 @@ Below is a diagram that gives an overview of the system design:
 
 ![System Overview](https://user-images.githubusercontent.com/121978043/211221435-7fb7b61e-2521-4409-a39c-f7983aec8775.PNG)
 
+## Interface Requirements
+
+### User Interfaces
+
+![User Interfaces](https://user-images.githubusercontent.com/121978043/211222182-5ffb3f46-b303-48d5-9b20-901ece9d0d3e.PNG)
+
+### Software Interfaces
+
+![Software Interfaces](https://user-images.githubusercontent.com/121978043/211222209-96e683c4-c609-43e5-9f59-835f422434e3.PNG)
+
 ## Demo
 
-## Project Details 
+## Project Walkthrough
 
 
 
