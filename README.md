@@ -108,8 +108,11 @@ Below is a diagram that gives an overview of the system design:
 
 ![Modify Applications](https://user-images.githubusercontent.com/121978043/211222884-9231e1b5-c7c3-42d9-b4b4-508e49d2977d.PNG)
 
+## Data Design
 
+The ER diagram provides an overview of the system's database design:
 
+![ER diagram](https://user-images.githubusercontent.com/121978043/211225326-03843876-3985-4664-94a8-c48eba60307a.PNG)
 
 
 
