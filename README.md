@@ -55,6 +55,13 @@ Below is a diagram that gives an overview of the system design:
 
 ## Project Walkthrough
 
+### Login Screen 
+
+The login screen is the start screen of the application which allows
+users to enter the system by entering valid credentials. 
+
+![Login Screen](https://user-images.githubusercontent.com/121978043/211227009-f5412657-f6c1-4935-853e-6a69bc336b6a.PNG)
+
 ## Interface Requirements
 
 ### User Interfaces
