@@ -64,6 +64,41 @@ users to enter the system by entering valid credentials.
 
 Figure 1. 
 
+### Main Menu
+
+Once the user has entered credentials matching the system's records, 
+they will be able to view the main menu screen (Figure 2) . 
+
+The main menu gives user three options to choose from: perform a faculty search, manage accounts, 
+or exit the application. The 'Manage Accounts' drop down menu has two
+options: add a new account or update an existing account (Figure 3). 
+
+![Main Menu](https://user-images.githubusercontent.com/121978043/211228505-0ab99fd6-493c-4b4f-81be-7d0744751528.PNG)
+
+Figure 2.
+
+![Main Menu 2](https://user-images.githubusercontent.com/121978043/211228529-379c0da0-e5a1-4807-a0d8-6da0615809d8.PNG)
+
+Figure 3. 
+
+### Add Account
+
+If the user selects the 'Add a new account' option in the main menu,
+they can add another user to the system (Figure 4). 
+
+![Add a New Account Screen](https://user-images.githubusercontent.com/121978043/211228563-9ab375d6-9f52-4dea-afd4-5df7a5666984.PNG)
+
+Figure 4.
+
+### Update Account
+
+If the user wishes to update any personal information on their account, 
+they can select the 'Udate account' option in the main menu (Figure 5). 
+
+![Update Account Screen](https://user-images.githubusercontent.com/121978043/211228584-b6a915f9-49ff-408d-8874-91d7e2581ef4.PNG)
+
+Figure 5.
+
 
 ## Interface Requirements
 
