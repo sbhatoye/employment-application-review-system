@@ -60,7 +60,8 @@ Below is a diagram that gives an overview of the system design:
 The login screen is the start screen of the application which allows
 users to enter the system by entering valid credentials. 
 
-![Login Screen](https://user-images.githubusercontent.com/121978043/211227009-f5412657-f6c1-4935-853e-6a69bc336b6a.PNG)
+![Login Screen](https://user-images.githubusercontent.com/121978043/211227181-54afc71c-97bf-4848-a358-04126c601f23.PNG)
+
 
 ## Interface Requirements
 
