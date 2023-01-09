@@ -12,9 +12,9 @@ class - COSC 3506.*
 
 ## Objective
 
-To create a software product for a University which allows its 
-department faculty members to collaborate and review applicants
-and select the best candidate for the job opening. 
+To use the waterfall methodology framework to develop a software 
+product that allows University faculty members to collaborate and review applicants
+and select the best candidate for the job opening.
 
 ## Purpose
 
