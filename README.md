@@ -99,6 +99,54 @@ they can select the 'Udate account' option in the main menu (Figure 5).
 
 Figure 5.
 
+### Faculty search
+
+If the user selects 'Faculty Search' from the main menu, they will be 
+directed to the faculty search page (Figure 6). Upon clicking the 'Load' button, 
+all existing faculty searches will be displayed in the table.
+
+In order to add a faculty search for a job opening, the user can make 
+appropriate selections based on criteria such as job position, 
+duration of the job position, the acting committee chair and 
+committee members, and the status of the application. 
+
+The 'Load' button refreshes the table and displays new entries. 
+The 'Application ID' in the table marks each entry as unique and 
+automatically increments itself as additional faculty searches 
+are added. 
+
+![Faculty Search Screen](https://user-images.githubusercontent.com/121978043/211405065-a48a9ef9-8308-402a-a385-d5eb36a52cd3.PNG)
+
+Figure 6. 
+
+### Review Applications
+
+Upon clicking the 'Review Applications' button, the user is directed
+to a page displaying all the submitted applications pending review 
+by other faculty members (Figure 7). 
+
+![Review Applications](https://user-images.githubusercontent.com/121978043/211405799-7d005465-b149-4023-89e4-ef1dd555b6c6.PNG)
+
+Figure 7.
+
+### Applicant page
+
+The applicant page (Figure 8) contains the candidate's contact information, 
+the position they applied for, any ubmitted documents such as CV, and
+status of the applicant. 
+
+A general comment box is provided for users to leave any general
+updates on the application. 
+
+The performance review section allows all faculty members to
+review the application collaboratively in order to arrive at 
+a final decision. A faculty review can also be specifically assigned to a faculty
+member. 
+
+![Applicant Page Screen](https://user-images.githubusercontent.com/121978043/211406172-f0cde301-1338-4a39-826e-5ec64db200be.PNG)
+
+Figure 8.
+
 
 ## Interface Requirements
 
