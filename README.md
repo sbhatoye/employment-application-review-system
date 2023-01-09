@@ -51,7 +51,6 @@ Below is a diagram that gives an overview of the system design:
 
 ![System Overview](https://user-images.githubusercontent.com/121978043/211221435-7fb7b61e-2521-4409-a39c-f7983aec8775.PNG)
 
-## Demo
 
 ## Project Walkthrough
 
