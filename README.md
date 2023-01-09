@@ -61,6 +61,7 @@ The login screen is the start screen of the application which allows
 users to enter the system by entering valid credentials. 
 
 ![Login Screen](https://user-images.githubusercontent.com/121978043/211227181-54afc71c-97bf-4848-a358-04126c601f23.PNG)
+
 Figure 1. 
 
 
